@@ -1,0 +1,439 @@
+eucaryot --> viridiplantae opisthokonta
+opisthokonta --> metazoa fungi
+metazoa --> eumetazoa metazoa2
+eumetazoa --> bilateria cnidaria scyphozoa
+bilateria --> deuterosmia protostomia
+deuterosmia --> echinodermata chordata
+chordata --> craniata chordata2
+craniata --> vertebrata craniata2
+vertebrata --> gnathostomata vertebrata2
+gnathostomata --> teleostomi chondrichthyes
+teleostomi --> euteleostomi teleostomi2
+euteleostomi --> sarcopterygii euteleostomi2
+sarcopterygii --> dipno sarcopterygii2
+dipno --> tetrapode actinopterygii
+tetrapode --> amphibians amniota
+amniota --> mamalia sauropsida
+mamalia --> theria mamalia2
+theria --> eutheria theria2
+eutheria --> afrotheria boreoeutheria xenarthra
+xenarthra --> pilosa xenarthra2
+pilosa --> folivora vermilingua
+folivora --> bradypodidae folivora2
+afrotheria --> proboscidea afrotheria2
+proboscidea --> elephantidae proboscidea2
+elephantidae --> mammuthus Loxodonta
+Loxodonta --> elephant
+boreoeutheria --> laurasiatheria euarchontoglires
+euarchontoglires --> primates glires
+glires --> rodentia lagomorpha
+lagomorpha --> leporidae lagomorpha2
+leporidae --> oryctalagus leporidae2
+oryctalagus --> rabbit
+rodentia --> hystricognathi sciurognathi
+sciurognathi --> castoridae muroidae sciuridae
+castoridae --> beaver
+sciuridae --> sciurinae sciuridae2
+sciurinae --> sciurini sciurinae2
+sciurini --> squirrel
+muroidae --> cricetinae murinae
+cricetinae --> hamster
+murinae --> mouse
+murinae --> rat
+hystricognathi --> caviidae hystricidae
+hystricidae --> porcupine
+caviidae --> capincho
+primates --> haplorrhini strepsirrhini
+strepsirrhini --> lemuriformes strepsirrhini2
+lemuriformes --> lemuridae lemuriformes2
+haplorrhini --> tarsiiformes simiiformes
+tarsiiformes --> tarsiidae tarsiiformes2
+simiiformes --> platyrrhini catarrhini
+catarrhini --> hominoidea cercopithecoidea
+cercopithecoidea --> cercopithecidae cercopithecoidea2
+hominoidea --> hominidae hominoidea2
+hominidae --> homininae hominidae2
+lemuridae --> lemur
+tarsiidae --> tarsier
+cercopithecidae --> baboon
+homininae --> chimp
+homininae --> gorilla
+platyrrhini --> pitheciidae platyrrhini2
+pitheciidae --> pitheciinae pitheciidae2
+pitheciinae --> cacajao
+laurasiatheria --> non_carnivora carnivora 
+non_carnivora --> perissodactyla cetartiodactyla
+perissodactyla --> rhinocerotidae equidae
+equidae --> uqus equidae2
+uqus --> horse
+uqus --> zebra
+rhinocerotidae --> rhino
+carnivora --> feliformia caniformia
+feliformia --> felidae hyaenidae
+caniformia --> ursidae canidae
+felidae --> felinae pantherinae acynonychinae
+acynonychinae --> chita
+felinae --> cat
+pantherinae --> lion
+pantherinae --> tiger
+ursidae --> ursus ailuropoda
+ailuropoda --> panda
+ursus --> black_bear_ ours_
+black_bear_ --> black_bear 
+ours_ --> grizzli
+canidae --> lycaon_ canis
+canis --> wolf_ dog_
+wolf_ --> wolf
+dog_ --> dog
+lycaon_ --> lycaon
+cetartiodactyla --> suina tylopoda hyp_rumi
+hyp_rumi --> hippopotamidae ruminantia
+tylopoda --> camelidae tylopoda2
+camelidae --> camelus lama_
+camelus --> droma_ camel_
+lama_ --> lama
+droma_ --> dromedary
+camel_ --> camel
+suina --> suidae suina2
+suidae --> pig
+suidae --> boar
+suidae --> phacoch
+hippopotamidae --> hippo
+ruminantia --> pecora tragulina
+pecora --> bovidae cervidae giraffidae
+bovidae --> bovinae caprinae
+bovinae --> cow
+bovinae --> bison
+caprinae --> goat
+cervidae --> cervinae oryx_
+cervinae --> deer
+oryx_ --> oryx
+cervinae --> alces
+giraffidae --> girafe
+giraffidae --> okapi
+sauropsida --> sauria sauropsida2
+sauria --> archosauria sauria2
+sauria2 --> lepidosauria testudines
+testudines --> cryptodira pleurodira
+cryptodira --> testunoidea cryptodira2
+testunoidea --> testunidae testunoidea2
+testunidae --> turtle
+lepidosauria --> squamata archosauromorpha
+squamata --> bifurcata squamata2
+bifurcata --> unidentata gekkota
+unidentata --> episquamata unidentata2
+episquamata --> laterata toxicofera
+toxicofera --> iguania anguimorpha serpentes
+iguania --> iguanidae acrodonta
+iguanidae --> iguane
+gekkota --> gekkonidae gekkota2
+gekkonidae --> gecko
+acrodonta --> chamaeleonidae acrodonta2
+chamaeleonidae --> chamaleon
+serpentes --> henophidia colubroidea
+henophidia --> boidae henophidia2
+boidae --> anaconda
+colubroidea --> cobra
+anguimorpha --> paleoanguimorpha anguimorpha2
+paleoanguimorpha --> varanoidea paleoanguimorpha2
+varanoidea --> varanidae varanoidea2
+varanidae --> varan
+laterata --> lacertibaenia laterata2
+lacertibaenia --> lacertidae lacertibaenia2
+lacertidae --> lizard
+archosauria --> dinosauria archosauria2
+dinosauria --> saurischia dinosauria2
+saurischia --> theropoda saurischia2
+theropoda --> coelurosauria theropoda2
+coelurosauria --> aves coelurosauria2
+aves --> neognathae paleognathae
+paleognathae --> casuariiformes apterygiformes
+apterygiformes --> apterygidae apterygiformes2
+apterygidae --> kiwi
+casuariiformes --> cassuriidae dromaiidae
+cassuriidae --> casuarius
+dromaiidae --> emu
+neognathae --> anseriformes galliformes psittaciformes passeriformes accipitriformes gaviiformes sphenisciformes pelecaniformes
+anseriformes --> anatidae anserinatidae
+anatidae --> duck
+anatidae --> swan
+galliformes --> phasaenidae galliformes2
+phasaenidae --> turkey
+phasaenidae --> peacock
+psittaciformes --> psittacidae psittaciformes2
+psittacidae --> ara
+psittacidae --> parakeet
+passeriformes --> paridae muscicapidae
+paridae --> tit
+muscicapidae --> robin
+accipitriformes --> accipitrae cathartidae strigiformes
+accipitrae --> hawk
+cathartidae --> tera
+strigiformes --> strigidae tytonidae
+strigidae --> owl
+tytonidae --> chouette
+pelecaniformes --> pelicanidae pelecaniformes2
+pelicanidae --> pelican
+sphenisciformes --> spheniscidae sphenisciformes2
+spheniscidae --> auk
+spheniscidae --> puffin
+amphibians --> batrachia amphibians2
+batrachia --> anura caudata
+anura --> hylidae bufonidae
+hylidae --> frog
+bufonidae --> toad
+caudata --> salamandroidea caudata2
+salamandroidea --> salamandridae salamandroidea2
+salamandridae --> salamander
+echinodermata --> eleutherozoa echinodermata2
+eleutherozoa --> asterozoa echinozoa
+asterozoa --> asteroidea asterozoa2
+asteroidea --> valvatacea forcipulatacea
+valvatacea --> valvatida valvatacea2
+valvatida --> acanthasteridae ophisdiateridae
+acanthasteridae --> starfish3
+forcipulatacea --> forcipulatida forcipulatacea2
+forcipulatida --> asteriidae forcipulatida2
+ophisdiateridae --> starfish2
+asteriidae --> starfish
+echinozoa --> echinoidea echinozoa2
+echinoidea --> euechinoidea echinoidea2
+euechinoidea --> echinacea euechinoidea2
+echinacea --> echinoida echinacea2
+echinoida --> strongylocentrotidae echinoida2
+strongylocentrotidae --> urchin
+cnidaria --> anthozoa scyphozoa
+anthozoa --> hexacorallia anthozoa2
+hexacorallia --> actiniaria corallimorpharia scleractinia
+actiniaria --> nynantheae actiniaria2
+nynantheae --> actiniidae nynantheae2
+actiniidae --> actinia
+actiniidae --> anthopleura
+corallimorpharia --> corallimorphidae corallimorpharia2
+corallimorphidae --> corynactis
+scleractinia --> astrocoeniina faviina
+astrocoeniina --> acroporidae astrocoeniina2
+acroporidae --> acropora
+acroporidae --> montipora
+faviina --> mussidae faviina2
+mussidae --> faviinae mussinae
+faviinae --> diplora
+mussinae --> mussida
+protostomia --> ecdysozoa nematoda
+ecdysozoa --> panarthropoda ecdysozoa2
+panarthropoda --> arthropoda panarthropoda2
+arthropoda --> mandibulata chelicerata
+mandibulata --> pancrustacea crustacea
+pancrustacea --> hexapoda pancrustacea2
+hexapoda --> insecta diplura
+insecta --> dicondylia insecta2
+dicondylia --> pterygota dicondylia2
+pterygota --> neoptera palaeoptera
+palaeoptera --> odonata palaeoptera2
+odonata --> zygoptera anisoptera
+anisoptera --> cavilabiata anisoptera2
+cavilabiata --> libellulidae cavilabiata2
+libellulidae --> dragonfly
+zygoptera --> calopterygoidea zygoptera2
+calopterygoidea --> calopterygoidae calopterygoidea2
+calopterygoidae --> damsel
+neoptera --> endopterygota orthopteroidea 
+orthopteroidea --> orthoptera orthopteroidea2
+orthoptera --> ensifera caelifera
+caelifera --> acridomorpha caelifera2
+acridomorpha --> acridoidea acridomorpha2
+acridoidea --> acrididae pamphagidae
+acrididae --> grasshopper
+pamphagidae --> grasshopper2
+ensifera --> grylloidea ensifera2
+grylloidea --> gryllidae grylloidea2
+gryllidae --> cricket
+endopterygota --> coleoptera hymenoptera diptera amphieneptora
+amphieneptora --> lepideptora amphieneptora2
+lepideptora --> glossata lepideptora2
+glossata --> neolepideptora glossata2
+neolepideptora --> heteroneura neolepideptora2
+heteroneura --> ditrysia heteroneura2
+ditrysia --> obtectomera ditrysia2
+obtectomera --> bombycoidea papillonoidea
+papillonoidea --> butterfly
+bombycoidea --> night_butter
+coleoptera --> polyphaga coleoptera2
+polyphaga --> scarabaeiformia cucujiformia
+scarabaeiformia --> scarabaeidae oxysternon
+scarabaeidae --> copro
+oxysternon --> beetle
+cucujiformia --> cucujoidea cucujiformia2
+cucujoidea --> coccinellidae cucujoidea2
+coccinellidae --> cocci
+hymenoptera --> apocrita hymenoptera2
+apocrita --> aculeata apocrita2
+aculeata --> apoidea sphecoidea vespoidea
+apoidea --> apidae apoidea2
+apidae --> bee
+sphecoidea --> sphecidae sphecoidea2
+sphecidae --> dauber
+vespoidea --> vespidae vespoidea2
+vespidae --> wasp
+diptera --> nematocera brachycera
+nematocera --> culicomorpha nematocera2
+culicomorpha --> culicoidea culicomorpha2
+culicoidea --> culicidae culicoidea2
+culicidae --> mosquito
+chelicerata --> arachnida chelicerata2
+arachnida --> scorpiones araneae amblypygi
+araneae --> araneomorphae araneae2
+araneomorphae --> entelegynae araneomorphae2
+entelegynae --> orbiculariae rtaclade
+rtaclade --> dyonycha lycosoidea
+dyonycha --> salticidae dyonycha2
+salticidae --> spider
+orbiculariae --> araneoidea orbiculariae2
+araneoidea --> araneidae araneoidea2
+araneidae --> spider2
+lycosoidea --> pisauridae lycosoidea2
+pisauridae --> spider3
+scorpiones --> lurida scorpiones2
+lurida --> scorpionoidea lurida2
+scorpionoidea --> scorpionoidae scorpionoidea2
+scorpionoidae --> scorpio
+amblypygi --> phrynichidae amblypygi2
+phrynichidae --> amblypyge
+brachycera --> tabanomorpha brachycera2
+tabanomorpha --> tabanoidea tabanomorpha2
+tabanoidea --> tabanidae tabanoidea2
+tabanidae --> fly
+scyphozoa --> rhizostomeae semaeostomeae
+rhizostomeae --> mastigiidae cassiopeidae cepheidae
+cassiopeidae --> cassiopea
+semaeostomeae --> ulmaridae semaeostomeae2
+mastigiidae --> jellyfish
+ulmaridae --> jellyfish3
+cepheidae --> jellyfish2
+viridiplantae --> streptophyta prasinophytes
+streptophyta --> streptophytina chlorokybales
+streptophytina --> embryophyta klebsormidiales
+embryophyta --> tracheophyta marchantiophyta
+tracheophyta --> euphyllophyta tracheophyta2
+euphyllophyta --> spermatophyta euphyllophyta2
+spermatophyta --> magnoliophyta acrogymnospermae
+acrogymnospermae --> pinidae acrogymnospermae2
+pinidae --> pinales cupressales
+pinales --> pinaceae pinales2
+cupressales --> cupressaceae taxaceae
+taxaceae --> taxus
+cupressaceae --> juniperus
+cupressaceae --> cypre
+pinaceae --> pinus pinaceae2
+pinus --> pine
+pinus --> edulis
+pinus --> picea
+magnoliophyta --> basalmagno mesangiosperme
+basalmagno --> nymphaeales basalmagno2
+nymphaeales --> nymphaeaceae nymphaeales2
+nymphaeaceae --> nuphar nymphaea vict
+nuphar --> lily
+nymphaea --> nymph
+vict --> victoria
+mesangiosperme --> liliopsida eudicotyledons
+liliopsida --> petrosaviidae liliopsida2
+petrosaviidae --> asparagales liliales
+asparagales --> hyacinthaceae orchidaceae iridaceae
+hyacinthaceae --> hyacinth
+hyacinthaceae --> hyacinth2
+orchidaceae --> orchid
+orchidaceae --> orchid2
+orchidaceae --> cephalantera
+iridaceae --> iris
+liliales --> liliaceae colchicaceae melanthiaceae
+liliaceae --> lilium
+colchicaceae --> colchique
+melanthiaceae --> toxicodon
+eudicotyledons --> gunneridae stem_eudicotyledons
+stem_eudicotyledons --> buxales stem_eudicotyledons2
+buxales --> buxacaeae buxales2
+buxacaeae --> bux
+buxacaeae --> pachys
+gunneridae --> pentapetalae gunneridae2
+pentapetalae --> rosids asterids caryophyllales
+rosids --> fabids malvids
+fabids --> fagales rosales
+fagales --> fagaceae fagales2
+fagaceae --> fagus quercus castanea Betulaceae
+Betulaceae --> birch
+fagus --> horn
+quercus --> oak
+castanea --> chestnut
+caryophyllales --> cactineae caryophyllales2
+cactineae --> cactaceae cactineae2
+cactaceae --> cactus
+cactaceae --> cactus2
+cactaceae --> cactus3
+asterids --> campanulids asterids2
+campanulids --> asterales campanulids2
+asterales --> asteraceae asterales2
+asteraceae --> cichorioideae asteroideae
+cichorioideae --> arctotideae cichorioideae2
+arctotideae --> gazania
+asteroideae --> asterae asteroideae2
+asterae --> aster
+rosales --> rosaceae rosales2
+rosaceae --> maloideae rosaceae2
+maloideae --> maleae amygdaleae pyrus
+pyrus --> pears
+maleae --> apples
+malvids --> Malvales malvids2
+Malvales --> Malvaceae Malvales2
+Malvaceae --> baobab
+amygdaleae --> peach
+fungi --> dikarya fungi2
+dikarya --> basidiomycota ascomycota
+ascomycota --> saccharomyceta taphrinomicota
+saccharomyceta --> pezizomycotina pezizomyceta
+pezizomyceta --> leotiomyceta pezizomyceta2
+leotiomyceta --> geoglossales sordariomyceta
+geoglossales --> geoglossacea geoglossales2
+geoglossacea --> geoglossum
+sordariomyceta --> leotiomycetes sordariomycetes
+leotiomycetes --> helotiales leotiomycetes2
+helotiales --> vibrisseaeceae helotiales2
+vibrisseaeceae --> vibrissea
+pezizomycotina --> pezizomicetes pezizomycotina2
+pezizomicetes --> pezizales pezizomicetes2
+pezizales --> pyronemataceae morchellaceae
+pyronemataceae --> aleuria
+sordariomycetes --> hypocreomycetidae sordariomycetes2
+hypocreomycetidae --> hypocreales hypocreomycetidae2
+hypocreales --> hypocreaceae hypocreales2
+hypocreaceae --> hypocreopsis
+basidiomycota --> agaricomycotina basidiomycota2
+agaricomycotina --> dacrymycetes agaricomycetes
+agaricomycetes --> agaricomycetidae agaricomycetes_incertae
+agaricomycetidae --> boletales agaricales
+boletales --> boletineae coniophorineae
+boletineae --> boletaceae boletineae2
+boletaceae --> boletoideae boletaceae2
+boletoideae --> boletus
+morchellaceae --> morchella
+coniophorineae --> hygrophoropsidaceae coniophorineae2
+hygrophoropsidaceae --> hygrophoropsis
+agaricales --> Amanitaceae agaricales2
+agaricales2 --> mycenaceae Tricholomataceae
+Amanitaceae --> amanite1
+Amanitaceae --> amanite2
+Amanitaceae --> amanite3
+mycenaceae --> mycena
+mycenaceae --> mycena2
+mycenaceae --> mycena3
+Tricholomataceae --> cruentomycena
+agaricomycetes_incertae --> polyporales thelephorales
+polyporales --> coriolaceae polyporaceae Ganodermataceae
+Ganodermataceae --> ganoderma
+polyporaceae --> trametes
+coriolaceae --> fomitopsis
+thelephorales --> Bankeraceae thelephoraceae
+thelephoraceae --> hydnellum
+Bankeraceae --> phellodon
+dacrymycetes --> Dacrymycetales Dacrymycetes2
+Dacrymycetales --> Dacrymycetaceae Dacrymycetales2
+Dacrymycetaceae --> calocera
